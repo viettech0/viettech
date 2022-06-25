@@ -1,15 +1,12 @@
+const SITE_NAME = "VietTech"
+
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
-    },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    title: SITE_NAME,
+    description: `Viet Tech is a community for Vietnamese people interested in Tech. The goal of Viet Tech is to share and pay it forward, to help the next generation have an easier time joining the tech industry and advance in their career. Everyone has a chance to share their experiences/ask questions about topics that they don’t know with absolutely no judgment, no disrespect.`,
+    siteUrl: `https://www.viettech.group`,
+    image:
+      "https://user-images.githubusercontent.com/6290720/175759033-7a61d34e-c2bd-4ef7-81f6-f60de0f79651.png",
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -68,6 +65,7 @@ module.exports = {
                 description
                 siteUrl
                 site_url: siteUrl
+                image
               }
             }
           }
@@ -113,15 +111,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: SITE_NAME,
+        short_name: SITE_NAME,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
