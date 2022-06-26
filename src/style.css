@@ -303,7 +303,7 @@ a:focus {
 }
 
 .blog-post {
-  word-break: break-all;
+  word-break: break-word;
 }
 
 .blog-post header h1 {
