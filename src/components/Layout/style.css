@@ -1,0 +1,17 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 150px;
+}
+
+@media screen and (min-width: 768px) {
+  .header-container {
+    display: block;
+  }
+  .logo {
+    width: 200px;
+  }
+}

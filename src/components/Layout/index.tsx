@@ -1,26 +1,34 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-const Layout = ({ children }) => {
+import "./style.css"
+
+const Layout = ({ children, size = '' }) => {
   const header = (
-    <div className="header-container">
-      <Link to="/">
-        <img
-          className="display-block"
-          width={200}
-          src="https://user-images.githubusercontent.com/6290720/175758279-0ff52cf3-749b-4a81-8c82-d7d06aa1c69a.png"
-          alt="Viet Tech"
-        />
-      </Link>
+    <div className="flex align-items-center">
+      <div className="flex-1">
+        <Link to="/">
+          <img
+            className="display-block logo"
+            src="https://user-images.githubusercontent.com/6290720/175758279-0ff52cf3-749b-4a81-8c82-d7d06aa1c69a.png"
+            alt="Viet Tech"
+          />
+        </Link>
+      </div>
+
+      <div>
+        <Link to="/about">About us</Link>
+      </div>
     </div>
   )
+  const width = size ? `max-width-${size}` : ''
 
   return (
-    <div className="global-wrapper">
+    <div className={`global-wrapper ${width}`}>
       <header className="global-header">{header}</header>
       <main>{children}</main>
-      <footer className="text-align-center">
-        VietTech © {new Date().getFullYear()}
+      <footer className="flex flex-direction-column text-align-center">
+        <div>VietTech © {new Date().getFullYear()}</div>
       </footer>
     </div>
   )

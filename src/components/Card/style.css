@@ -1,0 +1,119 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--spacing-8);
+  border-radius: 4px;
+  border: 1px solid var(--color-accent);
+  width: 350px;
+  transition: all 0.3s ease-out;
+  position: relative;
+  overflow: hidden;
+}
+
+.yellow {
+  --bg-color: #ffd861;
+  --bg-color-light: #ffeeba;
+  --text-color-hover: #4C5656;
+  --box-shadow-color: rgba(255, 215, 97, 0.48);
+}
+
+.green {
+  --bg-color: #B8F9D3;
+  --bg-color-light: #e2fced;
+  --text-color-hover: #4C5656;
+  --box-shadow-color: rgba(184, 249, 211, 0.48);
+}
+
+.green-1 {
+  --bg-color: #a5fac3;
+  --bg-color-light: #d0eeea;
+  --text-color-hover: #8db5b0;
+  --box-shadow-color: rgba(38, 122, 67, 0.48);
+}
+
+.green-2 {
+  --bg-color: #d8f1ee;
+  --bg-color-light: #edfef3;
+  --text-color-hover: #3cc46c;
+  --box-shadow-color: rgba(141, 181, 176, 0.48);
+}
+
+.orange {
+  --bg-color: #ffd5c2;
+  --bg-color-light: #ffefef;
+  --text-color-hover: #ff7434;
+  --box-shadow-color: rgba(153, 69, 31, 0.48);
+}
+
+.pink {
+  --bg-color: #ffebeb;
+  --bg-color-light: #F0E7FF;
+  --text-color-hover: #e5d3d3;
+  --box-shadow-color: rgba(229, 211, 211, 0.48);
+}
+
+.brown {
+  --bg-color: #d5bcb2;
+  --bg-color-light: #f1e8e5;
+  --text-color-hover: #9d624c;
+  --box-shadow-color: rgba(185, 143, 127, 0.48);
+}
+
+.purple {
+  --bg-color: #CEB2FC;
+  --bg-color-light: #F0E7FF;
+  --text-color-hover: #fff;
+  --box-shadow-color: rgba(206, 178, 252, 0.48);
+}
+
+.blue {
+  --bg-color: #DCE9FF;
+  --bg-color-light: #f1f7ff;
+  --text-color-hover: #4C5656;
+  --box-shadow-color: rgba(220, 233, 255, 0.48);
+}
+
+.blue-1 {
+  --bg-color: #b3cef6;
+  --bg-color-light: #e5eefc;
+  --text-color-hover: #02409f;
+  --box-shadow-color: rgba(2, 55, 136, 0.48);
+}
+
+.card:hover {
+  transform: translateY(-5px) scale(1.005) translateZ(0);
+  box-shadow: 0 24px 36px rgba(0,0,0,0.11),
+    0 24px 46px var(--box-shadow-color);
+}
+
+.card:hover .overlay {
+  transform: scale(7) translateZ(0);
+}
+
+.card:hover .text-gray {
+  color: var(--color-text-light);
+}
+
+.card .img-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 100%;
+}
+
+.height-200 {
+  height: 200px
+}
+
+.overlay {
+  width: 100px;
+  height: 100px;
+  position: absolute; 
+  border-radius: 50%;
+  background: var(--bg-color);
+  top: 200px;
+  left: -100px;
+  z-index: 0;
+  transition: transform 0.3s ease-out;
+}

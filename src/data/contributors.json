@@ -1,0 +1,240 @@
+[
+  {
+    "photo": "https://user-images.githubusercontent.com/6290720/176648965-e416e37b-ee06-4461-a6d6-95abcc304165.jpeg",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "chanlvh"
+      },
+      {
+        "type": "twitter",
+        "name": "chanlvh"
+      }
+    ],
+    "fullName": "Chan Le",
+    "title": "Founder, Viet Tech",
+    "description": "Father, Real Estate Investor, Husband, Product Engineer",
+    "color": "blue-1"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/6547031",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "tuanavu"
+      },
+      {
+        "type": "twitter",
+        "name": "TuanVu8"
+      },
+      {
+        "type": "github",
+        "name": "tuanavu"
+      },
+      {
+        "type": "youtube",
+        "name": "UCiWjUAmiF3v91NbHOKuPNow"
+      }
+    ],
+    "fullName": "Tuan Vu",
+    "title": "Software Engineer, Machine Learning Platform at Quora",
+    "description": "Single, Back-end engineer, Value Investor, Foodie, Movie enthusiast, Tech Geek, Avid reader",
+    "color": "green"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/6290720?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "dzungnguyen179"
+      },
+      {
+        "type": "twitter",
+        "name": "davidnguyen1791"
+      },
+      {
+        "type": "github",
+        "name": "davidnguyen179"
+      }
+    ],
+    "fullName": "Dzung Nguyen",
+    "title": "Software Engineer, DoorDash",
+    "description": "Front End, Technical Writer, author 👇 Spotit.Page",
+    "color": "blue"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/89957849",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "catherine-22"
+      },
+      {
+        "type": "facebook",
+        "name": "jenjen2252"
+      }
+    ],
+    "fullName": "Chau Duong",
+    "title": "Data Science Intern @IBM, Statistics student at Texas A&M",
+    "description": "Foodie, Piano/Guitar player, Singer, Tennis/Ping-pong player, K-drama/K-pop lover, Learner, Gamer (LoL, wildrifts), Board Games Lover",
+    "color": "pink"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/3219603?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "vuminhchau91"
+      }
+    ],
+    "fullName": "Chau Vu",
+    "title": "Software Engineer - Infrastructure, Gantry.io",
+    "description": "Infrastructure, Mom in Tech, Career Coach, Activist, Lifelong Learner",
+    "color": "green-1"
+  },
+  {
+    "photo": "https://user-images.githubusercontent.com/6290720/176657975-59ea4e7b-f22e-455e-a752-55be8fbf0f72.jpg",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "phuong-hoa-giang-30663925"
+      },
+      {
+        "type": "facebook",
+        "name": "phuonghoa.giang"
+      }
+    ],
+    "fullName": "Phuong-Hoa Giang",
+    "title": "Senior Data Scientist, Microsoft AI&R",
+    "description": "Cat mother, investor, books lover",
+    "color": "blue"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/27938294?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "billnguyense"
+      },
+      {
+        "type": "twitter",
+        "name": "billnguyense"
+      }
+    ],
+    "fullName": "Bill Nguyen",
+    "title": "Sr. Manager, Technology at Lazada",
+    "description": "Back End, 10 years in this industry. If you are looking for a tech job in Singapore, hit me up",
+    "color": "purple"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/793701?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "phamduchieu"
+      }
+    ],
+    "fullName": "Hieu Pham",
+    "title": "Staff Software Engineer, Meta",
+    "description": "Father, woodworker, handyman.",
+    "color": "yellow"
+  },
+  
+  {
+    "photo": "https://avatars.githubusercontent.com/u/74216448?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "xuanluong"
+      },
+      {
+        "type": "github",
+        "name": "seanluong"
+      }
+    ],
+    "fullName": "Xuan Luong",
+    "title": "Software Engineer, Square",
+    "description": "Asia → Europe → America, language learner, K-drama binge watcher, fantasy shows & movies lover (talk to me about the MCU, StarWars, GoT, LotR, etc.), gamer (big fan of Total War series)",
+    "color": "blue"
+  },
+  {
+    "photo": " https://avatars.githubusercontent.com/u/7966452?v=4",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "datdo"
+      },
+      {
+        "type": "twitter",
+        "name": "datbacdo"
+      },
+      {
+        "type": "github",
+        "name": "bdatdo0601"
+      },
+      {
+        "type": "facebook",
+        "name": "legenmately"
+      }
+    ],
+    "fullName": "Dat Do",
+    "title": "Software Dev Engineer 2, Amazon",
+    "description": "Eager to learn about everything, AMA and most importantly, your nakama",
+    "color": "green"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/u/46215518",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "anh-hoang0407"
+      },
+      {
+        "type": "github",
+        "name": "hnathehe2"
+      },
+      {
+        "type": "facebook",
+        "name": "hnathehe2"
+      }
+    ],
+    "fullName": "Nghia Anh",
+    "title": "Software Engineer, Klaviyo",
+    "description": "Recent grad from Texas A&M. Eager to learn new things. Love to play soccer, as well as online games (WildRift, Conflict of Nations)",
+    "color": "brown"
+  },
+  {
+    "photo": "https://user-images.githubusercontent.com/6290720/176648559-4b328a30-5cdb-48f9-9348-126080b88dc4.jpg",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "anguyen2023"
+      }
+    ],
+    "fullName": "Huy Anh",
+    "title": "Software Engineer Intern, Snap Inc. & Confluent, CS @ Texas A&M",
+    "description": "'Bot chạy bằng cơm cho Viet Tech', a photographer, and an avid fan of Everything Everywhere All At Once",
+    "color": "orange"
+  },
+  {
+    "photo": "https://avatars.githubusercontent.com/phuhgnguyen",
+    "socialNetworks": [
+      {
+        "type": "linkedin",
+        "name": "phuhgnguyen"
+      },
+      {
+        "type": "github",
+        "name": "phuhgnguyen"
+      },
+      {
+        "type": "facebook",
+        "name": "phuhgnguyen"
+      }
+    ],
+    "fullName": "Phu Nguyen",
+    "title": "Software Engineer Intern, Oracle (OCI) || CS @ Texas A&M",
+    "description": "Likes to try everything at least once, generalist, guitar & soccer player, headbanger, Squishmallow enthusiast, best Lulu support",
+    "color": "green-2"
+  }
+]

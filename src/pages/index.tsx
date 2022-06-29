@@ -10,7 +10,7 @@ const BlogPostTemplate = ({ data, location }) => {
 
   return (
     <Layout>
-      <Seo title='Home' />
+      <Seo title="Home" />
       <article
         className="blog-post"
         itemScope
