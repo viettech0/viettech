@@ -28,7 +28,7 @@ export function Card(props: CardProps) {
     <div className={`card ${color}`}>
       <div className="overlay" />
       <div className="mb-5 z-index-1">
-        <img className="img-photo" src={photo} alt={fullName} />
+        <img loading="lazy" className="img-photo" src={photo} alt={fullName} />
       </div>
 
       <div className="flex flex-direction-column align-items-center mb-5 height-200 z-index-1">
