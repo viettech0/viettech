@@ -37,6 +37,12 @@ title: Links
 
 [Real estate agent switching to software engineer](https://www.facebook.com/groups/1177470863076165/posts/1191651884991396/)
 
+[Mình đã đến với Khoa học Máy tính như thế nào](https://www.facebook.com/groups/1177470863076165/?multi_permalinks=1193122064844378)
+
+[Con đường tới công việc đầu tiên](https://www.facebook.com/photo/?fbid=10159126467937428)
+
+[From first job to dream job](https://xluong.medium.com/from-first-job-to-dream-job-41948f1af19f)
+
 # #interview
 
 [Interview process + study plan for Senior Software Engineer](https://www.facebook.com/groups/1177470863076165/posts/1188095518680366)
