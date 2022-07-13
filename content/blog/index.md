@@ -79,6 +79,8 @@ title: Links
 
 [Du học sinh muốn thử làm ở startup tạm thời?](https://www.facebook.com/groups/1177470863076165/posts/1179907499499168/)
 
+[Introduction to EP - Singapore working visa for tech workers](https://www.facebook.com/columns/3267379490187455/)
+
 # #resources
 
 [Đọc tech news, technical discussion, hay new products in tech ở trang nào?](https://www.facebook.com/groups/1177470863076165/posts/1225327438290507/)
