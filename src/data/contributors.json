@@ -34,6 +34,10 @@
       {
         "type": "youtube",
         "name": "UCiWjUAmiF3v91NbHOKuPNow"
+      },
+      {
+        "type": "earth",
+        "website": "https://www.tuanavu.com/"
       }
     ],
     "fullName": "Tuan Vu",
@@ -55,6 +59,10 @@
       {
         "type": "github",
         "name": "davidnguyen179"
+      },
+      {
+        "type": "earth",
+        "website": "https://dzungnguyen.dev/"
       }
     ],
     "fullName": "Dzung Nguyen",
@@ -175,6 +183,10 @@
       {
         "type": "facebook",
         "name": "legenmately"
+      },
+      {
+        "type": "earth",
+        "website": "https://datbdo.com/"
       }
     ],
     "fullName": "Dat Do",

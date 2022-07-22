@@ -1,9 +1,10 @@
 import React from "react"
+import { ICON_SIZE } from "./constants"
 
 export function Youtube() {
   return (
     <svg
-      height={50}
+      height={ICON_SIZE}
       style={{ fill: "rgb(255, 0, 0)" }}
       focusable="false"
       aria-hidden="true"
