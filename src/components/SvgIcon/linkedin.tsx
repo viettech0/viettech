@@ -1,9 +1,10 @@
 import React from "react"
+import { ICON_SIZE } from "./constants"
 
 export function Linkedin() {
   return (
     <svg
-      height={50}
+      height={ICON_SIZE}
       style={{ fill: "rgb(25, 118, 210)" }}
       focusable="false"
       aria-hidden="true"

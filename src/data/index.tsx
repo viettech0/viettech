@@ -12,8 +12,9 @@ export interface Contributor {
 }
 
 export interface SocialNetwork {
-  name: string
+  name?: string
   type: SocialType
+  website?: string
 }
 
 export type SocialType =
@@ -22,3 +23,4 @@ export type SocialType =
   | "linkedin"
   | "github"
   | "facebook"
+  | "earth"

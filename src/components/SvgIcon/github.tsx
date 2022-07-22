@@ -1,9 +1,10 @@
 import React from "react"
+import { ICON_SIZE } from "./constants"
 
 export function Github() {
   return (
     <svg
-      height={50}
+      height={ICON_SIZE}
       focusable="false"
       aria-hidden="true"
       viewBox="0 0 24 24"

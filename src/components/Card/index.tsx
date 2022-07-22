@@ -5,6 +5,7 @@ import { Youtube } from "../SvgIcon/youtube"
 import { Github } from "../SvgIcon/github"
 import { Twitter } from "../SvgIcon/twitter"
 import { Facebook } from "../SvgIcon/facebook"
+import { Earth } from "../SvgIcon/earth"
 import { getSocialNetworkHost } from "../../utils/get-social-network-host"
 
 import "./style.css"
@@ -19,6 +20,7 @@ const socialIcons: SocialIcons = {
   github: <Github />,
   twitter: <Twitter />,
   facebook: <Facebook />,
+  earth: <Earth />
 }
 
 export function Card(props: CardProps) {
@@ -43,8 +45,12 @@ export function Card(props: CardProps) {
 
       <div className="flex flex-wrap z-index-1">
         {socialNetworks.map((item: SocialNetwork, index) => {
-          const { type, name } = item
-          const socialUrl = `${getSocialNetworkHost(type)}/${name}`
+          const { type, name, website } = item
+          let socialUrl = `${getSocialNetworkHost(type)}/${name}`
+          if (website) {
+            socialUrl = website
+          }
+
           return (
             <a
               key={index}

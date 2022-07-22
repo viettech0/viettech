@@ -1,9 +1,10 @@
 import React from "react"
+import { ICON_SIZE } from "./constants"
 
 export function Twitter() {
   return (
     <svg
-      height={50}
+      height={ICON_SIZE}
       style={{ fill: "#00acee" }}
       focusable="false"
       aria-hidden="true"
