@@ -9,6 +9,7 @@ import { Earth } from "../SvgIcon/earth"
 import { getSocialNetworkHost } from "../../utils/get-social-network-host"
 
 import "./style.css"
+import { Medium } from "../SvgIcon/medium"
 
 type SocialIcons = {
   [key in SocialType]: React.ReactNode
@@ -20,7 +21,8 @@ const socialIcons: SocialIcons = {
   github: <Github />,
   twitter: <Twitter />,
   facebook: <Facebook />,
-  earth: <Earth />
+  earth: <Earth />,
+  medium: <Medium />
 }
 
 export function Card(props: CardProps) {
@@ -56,7 +58,7 @@ export function Card(props: CardProps) {
               key={index}
               href={socialUrl}
               target="_blank"
-              className="flex p-2"
+              className="flex p-2 align-items-center"
             >
               {socialIcons[type]}
             </a>

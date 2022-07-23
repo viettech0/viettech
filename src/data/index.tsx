@@ -24,3 +24,4 @@ export type SocialType =
   | "github"
   | "facebook"
   | "earth"
+  | "medium"
