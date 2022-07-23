@@ -10,8 +10,10 @@ export function getSocialNetworkHost(socialType: SocialType) {
       return "https://twitter.com"
     case "youtube":
       return "https://www.youtube.com/channel"
-      case "facebook":
-        return "https://www.facebook.com"
+    case "facebook":
+      return "https://www.facebook.com"
+    case "medium":
+      return "https://medium.com"
     default:
       return
   }

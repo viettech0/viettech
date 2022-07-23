@@ -93,6 +93,10 @@
       {
         "type": "linkedin",
         "name": "vuminhchau91"
+      },
+      {
+        "type": "earth",
+        "website": "https://chauvu.substack.com/"
       }
     ],
     "fullName": "Chau Vu",
@@ -158,6 +162,10 @@
       {
         "type": "github",
         "name": "seanluong"
+      },
+      {
+        "type": "medium",
+        "name": "@xluong"
       }
     ],
     "fullName": "Xuan Luong",
