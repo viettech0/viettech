@@ -20,6 +20,13 @@ export default function ProjectIdeas() {
               <li>Submit a PR to <a href="https://github.com/viettech0/viettech">Viet Tech repo</a> using the Project-Idea Pull Request template</li>
             </ul>
           </li>
+          <li>Guidelines for choosing new resources
+            <ul>
+              <li>Free resources preferred</li>
+              <li>Duration tags: `short` = couple of hours; `long` = couple of days</li>
+              <li>Difficulty tags: `beginner` for those who have taken 1-2 intro to programming courses; `intermediate` for those who have taken >= 3 programming courses; `advanced` for those who want to drill into a specific topic</li>
+            </ul>
+          </li>
         </ul>
       </div>
       <br></br>
