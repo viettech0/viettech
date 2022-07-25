@@ -19,6 +19,10 @@ const Layout = ({ children, size = '' }) => {
       <div>
         <Link to="/about">About us</Link>
       </div>
+      &nbsp;|&nbsp;
+      <div>
+        <Link to="/project-ideas">Side-project ideas</Link>
+      </div>
     </div>
   )
   const width = size ? `max-width-${size}` : ''
