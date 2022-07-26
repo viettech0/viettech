@@ -85,3 +85,36 @@ title: Links
 
 [Đọc tech news, technical discussion, hay new products in tech ở trang nào?](https://www.facebook.com/groups/1177470863076165/posts/1225327438290507/)
 
+# Notable hashtags
+
+[#careeradvice](https://www.facebook.com/hashtag/careeradvice/) 
+
+[#CareerStories](https://www.facebook.com/hashtag/CareerStories)
+
+[#vietnam](https://www.facebook.com/hashtag/vietnam)
+
+[#negotiation](https://www.facebook.com/hashtag/negotiation)
+
+[#careerguide](https://www.facebook.com/hashtag/careerguide)
+
+[#technicaldiscussion](https://www.facebook.com/hashtag/technicaldiscussion)
+
+[#unitedstates](https://www.facebook.com/hashtag/unitedstates/)
+
+[#backgroundcheck](https://www.facebook.com/hashtag/backgroundcheck)
+
+[#careerswitch]((https://www.facebook.com/hashtag/careerswitch)
+
+[#resources]((https://www.facebook.com/hashtag/resources)
+
+[#goabroad]((https://www.facebook.com/hashtag/goabroad)
+
+[#internship]((https://www.facebook.com/hashtag/internship)
+
+[#interviewprep]((https://www.facebook.com/hashtag/interviewprep)
+
+[#backtovietnam]((https://www.facebook.com/hashtag/backtovietnam)
+
+[#compensation]((https://www.facebook.com/hashtag/compensation)
+
+[#interview_review]((https://www.facebook.com/hashtag/interview_review)
