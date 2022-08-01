@@ -105,16 +105,16 @@ title: Links
 
 [#careerswitch]((https://www.facebook.com/hashtag/careerswitch)
 
-[#resources]((https://www.facebook.com/hashtag/resources)
+[#resources](https://www.facebook.com/hashtag/resources)
 
-[#goabroad]((https://www.facebook.com/hashtag/goabroad)
+[#goabroad](https://www.facebook.com/hashtag/goabroad)
 
-[#internship]((https://www.facebook.com/hashtag/internship)
+[#internship](https://www.facebook.com/hashtag/internship)
 
-[#interviewprep]((https://www.facebook.com/hashtag/interviewprep)
+[#interviewprep](https://www.facebook.com/hashtag/interviewprep)
 
-[#backtovietnam]((https://www.facebook.com/hashtag/backtovietnam)
+[#backtovietnam](https://www.facebook.com/hashtag/backtovietnam)
 
-[#compensation]((https://www.facebook.com/hashtag/compensation)
+[#compensation](https://www.facebook.com/hashtag/compensation)
 
-[#interview_review]((https://www.facebook.com/hashtag/interview_review)
+[#interview_review](https://www.facebook.com/hashtag/interview_review)
