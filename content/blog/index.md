@@ -87,34 +87,34 @@ title: Links
 
 # Notable hashtags
 
-[#careeradvice](https://www.facebook.com/hashtag/careeradvice/) 
+[#careeradvice](https://www.facebook.com/hashtag/careeradvice/?__gid__=1177470863076165) 
 
-[#CareerStories](https://www.facebook.com/hashtag/CareerStories)
+[#CareerStories](https://www.facebook.com/hashtag/CareerStories?__gid__=1177470863076165)
 
-[#vietnam](https://www.facebook.com/hashtag/vietnam)
+[#vietnam](https://www.facebook.com/hashtag/vietnam?__gid__=1177470863076165)
 
-[#negotiation](https://www.facebook.com/hashtag/negotiation)
+[#negotiation](https://www.facebook.com/hashtag/negotiation?__gid__=1177470863076165)
 
-[#careerguide](https://www.facebook.com/hashtag/careerguide)
+[#careerguide](https://www.facebook.com/hashtag/careerguide?__gid__=1177470863076165)
 
-[#technicaldiscussion](https://www.facebook.com/hashtag/technicaldiscussion)
+[#technicaldiscussion](https://www.facebook.com/hashtag/technicaldiscussion?__gid__=1177470863076165)
 
-[#unitedstates](https://www.facebook.com/hashtag/unitedstates/)
+[#unitedstates](https://www.facebook.com/hashtag/unitedstates/?__gid__=1177470863076165)
 
-[#backgroundcheck](https://www.facebook.com/hashtag/backgroundcheck)
+[#backgroundcheck](https://www.facebook.com/hashtag/backgroundcheck?__gid__=1177470863076165)
 
-[#careerswitch](https://www.facebook.com/hashtag/careerswitch)
+[#careerswitch](https://www.facebook.com/hashtag/careerswitch?__gid__=1177470863076165)
 
-[#resources](https://www.facebook.com/hashtag/resources)
+[#resources](https://www.facebook.com/hashtag/resources?__gid__=1177470863076165)
 
-[#goabroad](https://www.facebook.com/hashtag/goabroad)
+[#goabroad](https://www.facebook.com/hashtag/goabroad?__gid__=1177470863076165)
 
-[#internship](https://www.facebook.com/hashtag/internship)
+[#internship](https://www.facebook.com/hashtag/internship?__gid__=1177470863076165)
 
-[#interviewprep](https://www.facebook.com/hashtag/interviewprep)
+[#interviewprep](https://www.facebook.com/hashtag/interviewprep?__gid__=1177470863076165)
 
-[#backtovietnam](https://www.facebook.com/hashtag/backtovietnam)
+[#backtovietnam](https://www.facebook.com/hashtag/backtovietnam?__gid__=1177470863076165)
 
-[#compensation](https://www.facebook.com/hashtag/compensation)
+[#compensation](https://www.facebook.com/hashtag/compensation?__gid__=1177470863076165)
 
-[#interview_review](https://www.facebook.com/hashtag/interview_review)
+[#interview_review](https://www.facebook.com/hashtag/interview_review?__gid__=1177470863076165)
