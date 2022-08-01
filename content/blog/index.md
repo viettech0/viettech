@@ -103,7 +103,7 @@ title: Links
 
 [#backgroundcheck](https://www.facebook.com/hashtag/backgroundcheck)
 
-[#careerswitch]((https://www.facebook.com/hashtag/careerswitch)
+[#careerswitch](https://www.facebook.com/hashtag/careerswitch)
 
 [#resources](https://www.facebook.com/hashtag/resources)
 
