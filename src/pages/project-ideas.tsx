@@ -23,8 +23,8 @@ export default function ProjectIdeas() {
           <li>Guidelines for choosing new resources
             <ul>
               <li>Free resources preferred</li>
-              <li>Duration tags: `short` = couple of hours; `long` = couple of days</li>
-              <li>Difficulty tags: `beginner` for those who have taken 1-2 intro to programming courses; `intermediate` for those who have taken >= 3 programming courses; `advanced` for those who want to drill into a specific topic</li>
+              <li>Duration tags: <b>short</b> = couple of hours; <b>long</b> = couple of days</li>
+              <li>Difficulty tags: <b>beginner</b> for those who have taken 1-2 intro to programming courses; <b>intermediate</b> for those with >= 3 programming courses; <b>advanced</b> for those who want to drill into a specific topic, e.g. concurrency, database, etc.</li>
             </ul>
           </li>
         </ul>
