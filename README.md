@@ -10,7 +10,7 @@ npm i
 npm run develop
 ```
 
-## production
+## Production
 
 ```
 npm run build
