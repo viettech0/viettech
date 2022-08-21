@@ -18,7 +18,7 @@ export default function ProjectIdeas() {
             <ul>
               <li>Comment on this <a href="https://waiting-brush-53b.notion.site/5b8da6961cc642c4b8cc204750ae43b4?v=4ee20bbdff9d4518ac4b4ba20c80895b">Notion page</a> (requires Notion login), OR</li>
               <li>Submit a PR to <a href="https://github.com/viettech0/viettech">Viet Tech repo</a>. We recommend using the `project_ideas_template.md` pull request template for quicker reviews (see the URL in the screenshot below).</li>
-              <img src="../images/suggest_project_ideas_template.png">
+              <li><img src="../images/suggest_project_ideas_template.png"></li>
             </ul>
           </li>
           <li>Guidelines for choosing new resources
