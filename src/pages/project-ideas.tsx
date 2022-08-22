@@ -17,7 +17,7 @@ export default function ProjectIdeas() {
           <li>To suggest your favorite resources or side project ideas:
             <ul>
               <li>Comment on this <a href="https://waiting-brush-53b.notion.site/5b8da6961cc642c4b8cc204750ae43b4?v=4ee20bbdff9d4518ac4b4ba20c80895b">Notion page</a> (requires Notion login), OR</li>
-              <li>Submit a PR to <a href="https://github.com/viettech0/viettech">Viet Tech repo</a>. We recommend using the <i>project_ideas_template.md`</i> pull request template for faster code reviews. To use the template, use <i>&template=project_ideas_template.md</i> when you open a pull request, e.g. <i>https://github.com/viettech0/viettech/compare/janedoe-branch-name?expand=1&template=project_ideas_template.md</i></li>
+              <li>Submit a PR to <a href="https://github.com/viettech0/viettech-links">Viet Tech repo</a>. We recommend using the <i>project_ideas_template.md`</i> pull request template for faster code reviews. To use the template, use <i>&template=project_ideas_template.md</i> when you open a pull request, e.g. <i>https://github.com/viettech0/viettech-links/compare/janedoe-branch-name?expand=1&template=project_ideas_template.md</i></li>
             </ul>
           </li>
           <li>Guidelines for choosing new resources
